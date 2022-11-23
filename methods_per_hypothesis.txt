@@ -1,5 +1,5 @@
 1. 
-Street Check, Gov Police Website, CrimeRate - secondary data 
+Street Check, CrimeRate - secondary data 
 pie charts holding crimes in this area
 compare to other areas
 word map
