@@ -1,17 +1,16 @@
 1. 
-Street Check, Gov Police Website, CrimeRate - secondary data 
-pie charts holding crimes in this area
-compare to other areas
-word map
-emotion map
+Street Check, Gov Police Website, CrimeRate - secondary data DONE
+pie charts holding crimes in this area DONE
+word map DONE
+emotion map DONE 
 
 2. 
-map overlay with points 
-bar charts of each transect 
-annotated pictures 
+map overlay with points DONE
+bar charts of each transect DONE
+annotated pictures DONE
 
 3.
-a heat map
+a heat map DONE
 land use survey
 and looking at land value
  
